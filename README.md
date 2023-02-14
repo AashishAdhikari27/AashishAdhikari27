@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Science and ML
+- 🌱 I’m currently learning Data Analysis
 - 👯 I’m looking to collaborate on Data Science and ML Projects
 - 📫 How to reach me:https://www.linkedin.com/in/aashish-adhikari-7b7930231/ 
 <!--
