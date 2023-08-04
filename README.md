@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Analysis
-- 👯 I’m looking to collaborate on Data Science and ML Projects
+- 🌱 I’m currently learning Deep Learning and Tensorflow.
+- 👯 I’m looking to collaborate on Deep Learning and ML Projects.
 - 📫 How to reach me:https://www.linkedin.com/in/aashish-adhikari-7b7930231/ 
 <!--
 **AashishAdhikari27/AashishAdhikari27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
